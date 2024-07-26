@@ -15,20 +15,20 @@ The datasets consists of several medical predictor variables and one target vari
 
 I created visualization using Python and dashboard for visualization in Tableau also.
 
-# Data Visualization
+## Data Visualization
 
 Before building the machine learning models, explored the dataset using data visualization techniques. Plotted Count plots, Violin plots, Pair plots, and Correlation matrices to gain insights into the distribution of our features and their relationships with each other. These visualizations helped us identify potential insights and understand the underlying relationships between the features.
 
-# Machine Learning Models
+## Machine Learning Models
 
-## Decision Tree Classifier
-## K-Nearest Neighbor
-## Random Forest Classifier
-## Adaboost Classifier
+### Decision Tree Classifier
+### K-Nearest Neighbor
+### Random Forest Classifier
+### Adaboost Classifier
 
 Applied the above classifier models to the dataset and also used grid search cross-validation technique to tune the hyperparameters of the models. Plotted a confusion matrix to understand the true positive and false positive rates of the multiclass classification model.
 
-# Conclusion
+## Conclusion
 
 In conclusion the results of this project can be used by healthcare professionals to develop preventative measures for patients who get Corona Virus can avoid higher risk of developing respiratory problems. Overall, this project demonstrates the potential of machine learning models in improving healthcare outcomes.
 
